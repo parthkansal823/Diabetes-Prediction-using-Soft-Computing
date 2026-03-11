@@ -1,4 +1,4 @@
-# 🧠 Diabetes Prediction using Soft Computing Algorithms
+# Diabetes Prediction using Soft Computing Algorithms
 
 ## 📌 Project Description
 Diabetes is a chronic disease that affects millions of people worldwide. Early prediction of diabetes can help in timely treatment and prevention of severe complications.  
