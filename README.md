@@ -1,6 +1,6 @@
 # Diabetes Prediction using Soft Computing Algorithms
 
-## 📌 Project Description
+##  Project Description
 Diabetes is a chronic disease that affects millions of people worldwide. Early prediction of diabetes can help in timely treatment and prevention of severe complications.  
 
 This project aims to develop a **Diabetes Prediction System** using **Soft Computing and Machine Learning Algorithms**.  
@@ -10,7 +10,7 @@ The project involves **data preprocessing, exploratory data analysis (EDA), hand
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - To analyze the diabetes dataset using statistical and visualization techniques  
 - To handle missing or invalid data values effectively  
 - To address class imbalance for better prediction performance  
@@ -20,12 +20,12 @@ The project involves **data preprocessing, exploratory data analysis (EDA), hand
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 - **Dataset:** Pima Indians Diabetes Dataset  
 - **Total Instances:** 768  
 - **Number of Features:** 8 input features + 1 output feature  
 
-### 🔎 Feature Details
+###  Feature Details
 
 | Feature Name | Description |
 |-------------|------------|
@@ -41,26 +41,26 @@ The project involves **data preprocessing, exploratory data analysis (EDA), hand
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
-### ✅ Data Preprocessing
+###  Data Preprocessing
 - Checked dataset information and statistical summary  
 - Replaced invalid zero values in key medical features  
 - Prepared dataset for training and testing  
 
-### ✅ Exploratory Data Analysis
+###  Exploratory Data Analysis
 - Distribution plots and correlation heatmap  
 - Identification of feature relationships  
 - Detection of data imbalance  
 
-### ✅ Handling Imbalanced Data
+###  Handling Imbalanced Data
 - Applied resampling techniques to balance diabetic and non-diabetic classes  
 
-### ✅ Model Implementation
+###  Model Implementation
 - Random Forest Classifier used for prediction  
 - Hyperparameter tuning performed for better accuracy  
 
-### ✅ Feature Importance
+###  Feature Importance
 Important predictors identified:
 - Glucose  
 - BMI  
@@ -69,7 +69,7 @@ Important predictors identified:
 
 ---
 
-## 📊 Model Evaluation
+##  Model Evaluation
 
 Evaluation metrics used:
 - Accuracy  
@@ -82,7 +82,7 @@ Evaluation metrics used:
 
 ---
 
-## 🧪 Technologies Used
+##  Technologies Used
 - Python  
 - NumPy  
 - Pandas  
@@ -93,7 +93,7 @@ Evaluation metrics used:
 
 ---
 
-## ▶️ Steps to Run the Project
+##  Steps to Run the Project
 
 ```bash
 # Clone the repository
